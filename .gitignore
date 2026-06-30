@@ -1,0 +1,6 @@
+work/
+outputs/
+.agents/
+.codex/
+Thumbs.db
+.DS_Store
